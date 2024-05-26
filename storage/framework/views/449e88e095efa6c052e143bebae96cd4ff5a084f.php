@@ -1,0 +1,2 @@
+
+<?php echo $__env->make('album.index', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /home/emru249w7j2m/public_html/pro/resources/views/welcome.blade.php ENDPATH**/ ?>
